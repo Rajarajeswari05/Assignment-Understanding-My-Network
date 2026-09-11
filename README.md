@@ -94,7 +94,7 @@ ipconfig /all
 
 
 
-## 2. Connectivity Test – ping
+2. Connectivity Test – ping
 
 I used the following Windows command to test connectivity between my computer and Google:
 
@@ -108,7 +108,7 @@ The test was successful, with 4 packets sent, 4 packets received, and 0% packet 
 <img width="790" height="317" alt="image" src="https://github.com/user-attachments/assets/34b7f9a8-698b-44ef-b2a2-09e3477516f0" />
 
 
-## 3. Route/Path Test – tracert
+3. Route/Path Test – tracert
 
 I used the following Windows command to identify the network path between my computer and Google:
 
@@ -123,7 +123,7 @@ For the public GitHub version, the first-hop private gateway has been masked for
 <img width="1030" height="692" alt="image" src="https://github.com/user-attachments/assets/7c3f2265-f87c-4884-82f7-e4b4830cd6bb" />
 
 
-## Key Learning
+Key Learning
 
 Through this practical exercise, I gained a better understanding of how computer networks work and how Windows commands can be used to check network configuration and connectivity.
 
@@ -141,7 +141,7 @@ Tracert – Shows the network path and intermediate hops.
 
 These concepts are important in cybersecurity because understanding normal network communication helps security professionals identify unusual traffic, troubleshoot network problems, and investigate potential security incidents.
 
-## Conclusion
+Conclusion
 
 This assignment gave me practical exposure to basic computer networking. I learned about LAN, WAN, switches, routers, firewalls, IP addresses, MAC addresses, default gateways, and DNS.
 
