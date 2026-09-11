@@ -1,3 +1,9 @@
+<img width="1030" height="692" alt="tracert_google_sanitized" src="https://github.com/user-attachments/assets/f4c9468d-f672-4642-8988-e14b9ec8b55a" />
+<img width="790" height="317" alt="ping_google" src="https://github.com/user-attachments/assets/0e58ca64-24ba-48ae-8bbe-a986dff83ddd" />
+<img width="1063" height="287" alt="ipconfig_sanitized_4" src="https://github.com/user-attachments/assets/5847e8f6-707a-4f50-83f6-b1e0e578a034" />
+<img width="1067" height="740" alt="ipconfig_sanitized_2" src="https://github.com/user-attachments/assets/aaec9b26-ed02-4035-9dc0-261a9916289d" />
+<img width="1036" height="883" alt="ipconfig_sanitized_1" src="https://github.com/user-attachments/assets/77dc1db8-ba39-45cb-82f8-376a59cab6ac" />
+<img width="1036" height="883" alt="image" src="https://github.com/user-attachments/assets/3b1f9668-10de-46a6-9412-cd631c8eea6b" />
 # Assignment-Understanding-My-Network
 Day 02 Assignment – Understanding My Network | Jayvik Labs
 
